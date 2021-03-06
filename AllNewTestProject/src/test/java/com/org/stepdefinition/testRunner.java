@@ -9,7 +9,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(
 				features="./src/test/resources/Features",
 				glue="./src/test/java/com/org/stepdefinition",
-				plugin= {"html:C:\\Users\\GOYAL\\git\\AllNewTestProject\\AllNewTestProject\\target"}
+				plugin= {"html:C:/Users/GOYAL/git/AllNewTestProject/AllNewTestProject/target"}
 				)
 public class testRunner {
 
